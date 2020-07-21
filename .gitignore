@@ -1,0 +1,13 @@
+*.ipynb
+*.txt
+*.sh
+/data
+/code
+/cells
+/dist
+/notebook_dvc.egg-info
+/.env
+/.idea
+/.ipynb_checkpoints
+/__pycache__
+

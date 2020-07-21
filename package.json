@@ -1,0 +1,17 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "extract def use deps between cells",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Chen",
+  "license": "ISC",
+  "dependencies": {
+    "@andrewhead/python-program-analysis": "^0.4.8"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.20"
+  }
+}
