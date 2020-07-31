@@ -1,13 +1,15 @@
 *.ipynb
 *.txt
 *.sh
+*.js
 /data
 /code
 /cells
 /dist
-/notebook_dvc.egg-info
+/example
+/kidney
+/metrics
 /.env
 /.idea
 /.ipynb_checkpoints
 /__pycache__
-
