@@ -2,6 +2,7 @@
 *.txt
 *.sh
 *.js
+directory.py
 /data
 /code
 /cells
